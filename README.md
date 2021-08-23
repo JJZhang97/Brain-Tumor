@@ -10,4 +10,5 @@ The notebook uses https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-
 <br>MedicalNet: https://github.com/Tencent/MedicalNet
 
 
-WIP: As most pretrained models uses PyTorch, this notebook aims to do a conversion from PyTorch pretrained models and use it on TensorFlow.
+<h2>WIP</h2>
+As most pretrained models uses PyTorch, this notebook aims to do a conversion from PyTorch pretrained models and use it on TensorFlow.
