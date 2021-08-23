@@ -5,4 +5,9 @@ https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification
 
 The notebook uses https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification as a reference and compiles additional ideas from me/from other notebooks form the competition.
 
+Pretrained Model: 
+<br>(more models to be added once PyTorch to TensorFlow conversion has been completed)
+<br>MedicalNet: https://github.com/Tencent/MedicalNet
+
+
 WIP: As most pretrained models uses PyTorch, this notebook aims to do a conversion from PyTorch pretrained models and use it on TensorFlow.
